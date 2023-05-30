@@ -1,0 +1,8 @@
+### MyIgnores ###
+
+Thumbs.db
+
+[Bb]ackup/
+
+# MSVC c++ binary module interface files
+*.ifc
